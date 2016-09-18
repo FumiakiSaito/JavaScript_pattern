@@ -61,8 +61,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strategy.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strategy.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/strategy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facade.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facade.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -91,6 +101,7 @@
         <option value="$PROJECT_DIR$/toranomaki.js" />
         <option value="$PROJECT_DIR$/factory.js" />
         <option value="$PROJECT_DIR$/strategy.js" />
+        <option value="$PROJECT_DIR$/facade.js" />
       </list>
     </option>
   </component>
@@ -212,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474093272674</updated>
-      <workItem from="1474093278868" duration="592000" />
+      <workItem from="1474093278868" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="592000" />
+    <option name="totallyTimeSpent" value="1214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1390" y="83" width="1276" height="738" extended-state="0" />
@@ -291,6 +302,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/strategy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facade.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
