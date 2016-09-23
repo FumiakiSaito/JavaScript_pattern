@@ -77,6 +77,6 @@ paper.subscribe(joe.drinkCoffee);
 paper.subscribe(joe.sundayPreNap, 'monthly');
 
 
-paper.daily();
-paper.daily();
-paper.monthly();
+paper.daily();   // Just read big news today
+paper.daily();   // Just read big news today
+paper.monthly(); // About to fall asleep reading this interesting analysis
